@@ -1,2 +1,2 @@
-# my-portfolio
-Steve Shortman Portfolio
+# Steve Shortman's Portfolio
+This is my professional portfolio. It uses AWS and ReactJS.
