@@ -1,0 +1,14 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo nothing to do
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - SteveShortmanCV.pdf
+    - styles/main.css
+    - images/*
+    
